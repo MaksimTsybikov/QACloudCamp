@@ -75,11 +75,13 @@ MacOS/Linux `pip3 install -r requirements.txt`
 # Автоматизация тестирования API. Часть 2
 Решение задания лежит в файле Dockerfile
 
+## Запустить приложение docker desktop
+
 ## Сборка образа
-`docker build -t QaCloudCamp .`
+`docker build -t qacloudcamp .`
 
 ## Запустить контейнер
-`docker run QaCloudCamp`
+`docker run qacloudcamp`
 
 # Информация для связи
 
